@@ -21,7 +21,7 @@ sudo apt install -y python3-venv git
 ## 3. Встановлення
 
 ```bash
-git clone https://github.com/YOUR_NAME/home-trainer-bot.git
+git clone https://github.com/cronhappens/home-trainer-bot.git
 cd home-trainer-bot
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
